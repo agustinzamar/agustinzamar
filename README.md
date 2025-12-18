@@ -1,98 +1,21 @@
-<h1 align="center" >Hey there! 👋🏼 I'm Agustín</h1>
+# 💫 About Me:
+🛠️ Currently working on<br>Web apps and internal tools mainly with Laravel and React<br><br>🤝 Looking to collaborate on<br>SaaS products, automation, and projects that are actually solving real world issues.<br><br>🌱 Currently learning<br>System design, Software Architecture and DevOps stuff
 
-#### Currently working as a QA Tester
 
-💪🏼 I do manual and automation testing
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agustinzamar) 
 
-I also code web apps and websites in my free time using React and Laravel 💖
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=plastic&logo=astro&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=plastic&logoColor=%23000000) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=plastic&logo=livewire&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=plastic&logo=Puppeteer&logoSize=auto&logoColor=black) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=plastic&logo=playwright&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=plastic&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=plastic&logo=cypress&logoColor=058a5e) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=plastic&logo=testing-library&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=plastic&logo=vitest&logoColor=FCC72B) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=agustinzamar&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=agustinzamar&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=agustinzamar&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I'm really interested in CD/CI processes and how to improve the development
-workflow.
-
-I love coffe ☕, cats 🐱 and doing sports 🏃‍♂️
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=agustinz97&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
----
-
-### Things I know about 💻
-
-<table>
-    <tbody>
-        <tr>
-            <td align="center" width="25%">
-                <span><b><center>ReactJS</center></b></span> <br/>
-                <img height="60px" src="https://img.icons8.com/ultraviolet/2x/react.png"> 
-            </td>
-            <td align="center" width="25%">
-                <span><b><center>PHP</center></b></span> <br/>
-                <img height="65px" src="https://img.icons8.com/officel/80/000000/php-logo.png"/>
-            </td>
-            <td align="center" width="25%">
-                <span><b><center>Laravel</center></b></span> <br/>
-                <img height="65px" src="https://img.icons8.com/fluent/96/000000/laravel.png"/>
-            </td>
-            <td align="center" width="25%">
-                <span><b><center>Git</center></b></span> <br/>
-                <img height="60px" src="https://img.icons8.com/color/96/000000/git.png"/>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" >
-                <span><b><center>HTML</center></b></span> <br/> 
-                <img height="65px" src="https://img.icons8.com/color/2x/html-5.png"> 
-            </td>
-            <td align="center" >
-                <span><b><center>JS ES6+</center></b></span> <br/>  
-                <img height="65px" src="https://img.icons8.com/color/2x/javascript.png"> 
-            </td>
-            <td align="center" >
-                <span><b><center>CSS</center></b></span> <br/> 
-                <img height="65px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-            </td>
-            <td align="center" >
-                <span><b><center>Adobe XD</center></b></span> <br/> 
-                <img height="70px" src="https://img.icons8.com/color/96/000000/adobe-xd.png"/>
-            </td>
-        </tr>
-        <tr>
-            <td align="center">
-                <span><b><center>NodeJS</center></b></span> <br/>
-                <img height="60px" src="https://img.icons8.com/color/2x/nodejs.png"> 
-            </td>
-            <td align="center" >
-                <span><b><center>SQL</center></b></span> <br/>
-                <img height="55px" src="https://img.icons8.com/officel/80/000000/database.png"/>
-            </td>
-            <td align="center" >
-                <span><b><center>Heroku</center></b></span> <br/>
-                <img height="55px" src="https://img.icons8.com/color/96/000000/heroku.png"/>
-            </td>
-            <td align="center">
-                <span><b><center>Python</center></b></span> <br/>
-                <img height="65px" src="https://img.icons8.com/color/2x/python.png"> 
-            </td>
-        </tr>
-        <tr>
-            <td align="center" >
-                <span><b><center>Selenium</center></b></span> <br/>
-                <img height="65px" src="https://img.icons8.com/officel/80/000000/selenium-test-automation.png"> 
-            </td>
-        </tr>
-    </tbody>
-</table>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=agustinzamar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=agustinzamar&icon=1&color=2)](https://visitcount.itsvg.in)
 
-### Let's get in touch! 💬
-
-✨ Twitter: https://twitter.com/_agustinzc
-
-✨ Instagram: https://instagram.com/_agustinzc
-
-✨ Codepen: https://codepen.io/agustin-zamar
-
-✨ My website: https://agustinzamar.com.ar
-
----
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
